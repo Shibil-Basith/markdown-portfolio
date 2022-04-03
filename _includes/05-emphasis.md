@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__Learn from Failures, Makes you the _best_ in that field__
+_Never Give Up_
